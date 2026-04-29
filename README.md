@@ -1,8 +1,8 @@
-# ScoreFetchRPC
+# download from musescore
 
 [![Node](https://img.shields.io/badge/node-18+-brightgreen)](https://nodejs.org/) [![TypeScript](https://img.shields.io/badge/TypeScript-5.9-blue)](https://www.typescriptlang.org/) [![License](https://img.shields.io/badge/license-MIT-blue)](LICENSE)
 
-ScoreFetch is a Node.js RPC API for fetching from MuseScore and converting into PDF, MP3, or MIDI files. Auth Tokens are generated with a technique documented by [Librescore](https://github.com/LibreScore). ( Which sadly isn't working at the time of writing :( )
+Node.js RPC API for fetching from MuseScore and converting into PDF, MP3, or MIDI files. I dont give money to them on principle.
 
 ---
 
